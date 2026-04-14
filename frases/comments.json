@@ -52,7 +52,7 @@
   "minecraft": {
     "trigger": ["minecraft"],
     "reply": [
-      "pô {player}, falando de bloquinho novamente?",
+      "pô {user}, falando de bloquinho novamente?",
       "salve notch",
       "morte ao jeb"
     ]
