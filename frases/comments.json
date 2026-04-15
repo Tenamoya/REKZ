@@ -1,6 +1,6 @@
 {
   "mog": {
-    "trigger": ["lol"],
+    "trigger": [""],
     "reply": [
       "lol? jogo de retardado",
       "lol? já o dom aparece",
@@ -10,7 +10,7 @@
   },
 
   "incel": {
-    "trigger": ["incel"],
+    "trigger": ["],
     "reply": [
       "hurr durrr",
       "mais um phd em redpill",
@@ -20,7 +20,7 @@
   },
 
   "bom dia": {
-    "trigger": ["bom dia"],
+    "trigger": [""],
     "reply": [
       "bom dia {user}",
       "E que belo dia {user}",
@@ -30,7 +30,7 @@
   },
    
   "bom tarde": {
-    "trigger": ["bom dia"],
+    "trigger": [""],
     "reply": [
       "bom tarde {user}",
       "tarde boa {user}",
@@ -40,7 +40,7 @@
   },
 
   "brasil": {
-    "trigger": ["brasil"],
+    "trigger": [""],
     "reply": [
       "CUZIL",
       "BOSTIL",
@@ -50,7 +50,7 @@
   },
 
   "minecraft": {
-    "trigger": ["minecraft"],
+    "trigger": [""],
     "reply": [
       "pô {user}, falando de bloquinho novamente?",
       "salve notch",
@@ -60,7 +60,7 @@
   },
   
   "boa ": {
-    "trigger": ["boa noite","bonoite"],
+    "trigger": ["",""],
     "reply": [
       "boa noite {user}",
       "noitinha {user}",
@@ -70,7 +70,7 @@
   },
 
   "oi": {
-    "trigger": ["oi"],
+    "trigger": [""],
     "reply": [
       "oii {user}",
       "e aí {user}",
